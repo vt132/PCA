@@ -1,2 +1,2 @@
 # PCA
-Repo for notebook hosting
+Repo for PCA notebook
